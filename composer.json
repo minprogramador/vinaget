@@ -1,0 +1,10 @@
+{
+    "name": "vinaget",
+    "description": "vinaget - refeito, modulo youtube.",
+    "type": "project",
+    "autoload": {
+        "psr-0": {
+            "Vina": "src/"
+        }
+    }
+}
